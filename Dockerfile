@@ -16,7 +16,7 @@ RUN ./mvnw clean package -DskipTests
 
 
 # ----------- RUNTIME STAGE -----------
-FROM eclipse-temurin:21-jre-jammy
+FROM eclipse-temurin:21-jdk-jammy
 
 WORKDIR /app
 
