@@ -49,9 +49,12 @@ A scalable backend application for managing hospital appointments, patients, and
 ---
 ## 📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/42343922-9564-4420-9487-9c1746bb209f" />
-<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/0821bdf9-7dc5-49f2-a9b9-716e77197fb4" />
-<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/2f3d5f1e-b119-4fc1-b967-ea7481047003" />
-<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/18cf86ea-985a-49fb-ab54-c4457102d656" />
+<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/ae41b6c5-d67a-434c-88db-5c18e04ff0d5" />
+<img width="1920" height="1080" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/112c6e8d-4240-4ff5-a51b-85fd1b56df03" />
+<img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/3252b642-e524-48ea-b21d-772cf1ee3a10" />
+<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/3ee9a2b1-3b04-4fec-b44c-ddf32778fd3a" />
+
+
 
 
 
