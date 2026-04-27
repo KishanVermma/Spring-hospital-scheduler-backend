@@ -5,9 +5,11 @@ A scalable backend application for managing hospital appointments, patients, and
 ---
 
 ## 🚀 Live Demo
-🔗 https://spring-hospital-scheduler-backend.onrender.com
 
+- 🌐 Frontend: https://symbdemo.netlify.app
+- 🔙 Backend API: https://spring-hospital-scheduler-backend.onrender.com
 ---
+
 
 ## 🛠 Tech Stack
 
